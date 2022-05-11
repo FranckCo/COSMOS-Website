@@ -1,0 +1,38 @@
+html {
+  background-color: black;
+}
+
+html.dark {
+  background-color: #1b171b;
+}
+
+img.logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1.main-title {
+  color: #680e4b;
+}
+
+h1:not(.main-title) {
+  color: #7c238c;
+}
+
+h2 {
+  color: #854798;
+}
+
+h3 {
+  color: #7c72a0;
+}
+
+p {
+  margin-left: 30px;
+}
+
+span.person {
+  font-style: italic;
+}

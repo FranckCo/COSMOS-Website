@@ -1,2 +1,4 @@
-# COSMOS-Website
-Web site for the COSMOS conference
+# COSMOS Website
+
+
+### Web site for the COSMOS conference
