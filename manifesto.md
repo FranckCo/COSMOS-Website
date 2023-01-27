@@ -4,15 +4,15 @@ Data is a major asset for all organizations, and this is particularly true in Of
 
 In Europe, the European strategy for data aims at creating a single market for data that will ensure global competitiveness and data sovereignty.
 
-(add an example outside Europe)
+Internationally, the Open Data Charter aims at enabling open data to support transparent, accountable, efficient and effective public and private sectors.
 
 Globally, the FAIR movement aims at making data easier to find and use.
 
-Add reference to Open Science?
+All these support the Open Science vision of open publication and access to scientific knowledge to enable collaborative networks at all levels of society.
 
 But realisation comes soon that data is unusable without metadata and that the FAIR principles actually boil down to requirements on metadata:
 - interoperable and linked concepts
-- standard description of data
+- standardized description and representation of data
 - catalogues 
 
 We need metadata that are:
