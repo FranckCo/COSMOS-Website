@@ -8,6 +8,8 @@ Internationally, the Open Data Charter aims at enabling open data to support tra
 
 Globally, the FAIR movement aims at making data easier to find and use.
 
+Many other initiatives embrace the same goals accross the world of scientific and policy research.
+
 All these support the Open Science vision of open publication and access to scientific knowledge to enable collaborative networks at all levels of society.
 
 But realisation comes soon that data is unusable without metadata and that the FAIR principles actually boil down to requirements on metadata:
