@@ -1,4 +1,5 @@
-# COSMOS manifesto
+# Smart Metadata Manifesto
+
 
 Data is a major asset for all organizations, and this is particularly true in Official Statistics.
 
@@ -15,15 +16,15 @@ All these support the Open Science vision of open publication and access to scie
 But realisation comes soon that data is unusable without metadata and that the FAIR principles actually boil down to requirements on metadata:
 - interoperable and linked concepts
 - standardized description and representation of data
-- catalogues 
+- cataloging and data search
 
 We need metadata that are:
-- standard:
+- standard: they can be understood and used everywhere
 - active: they are machine-actionable and drive the statistical process
 - FAIR: they make data findable, accessible, interoperable and reusable
 
-(make a connection with data quality)
+Rich metadata explain what data are and what they can do; they enhance data quality and usability.
 
 We propose to brand these "Smart Metadata".
 
-The COSMOS conference is a place for the Official Statistics community to exchange on how to define, share, use and manage smart metadata.
+The COSMOS conference is a place for the Official Statistics community to envision how to best define, share, use and manage smart metadata, to fully realize data's potential.
