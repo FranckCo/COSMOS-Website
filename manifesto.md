@@ -2,11 +2,11 @@
 
 Data is a major asset for all organizations, and this is particularly true in Official Statistics.
 
-In Europe, the European strategy for data aims at creating a single market for data that will ensure global competitiveness and data sovereignty.
+In Europe, the [European strategy for data](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52020DC0066&from=EN) aims at creating a single market for data that will ensure global competitiveness and data sovereignty.
 
-Internationally, the Open Data Charter aims at enabling open data to support transparent, accountable, efficient and effective public and private sectors.
+Internationally, the [Open Data Charter](https://opendatacharter.net/) aims at enabling open data to support transparent, accountable, efficient and effective public and private sectors.
 
-Globally, the FAIR movement aims at making data easier to find and use.
+Globally, the [FAIR movement](https://www.go-fair.org/) aims at making data easier to find and use.
 
 Many other initiatives embrace the same goals accross the world of scientific and policy research.
 
@@ -18,10 +18,12 @@ But realisation comes soon that data is unusable without metadata and that the F
 - catalogues 
 
 We need metadata that are:
-- standard
-- active
-- FAIR
+- standard:
+- active: they are machine-actionable and drive the statistical process
+- FAIR: they make data findable, accessible, interoperable and reusable
 
-We propose to brand these "Smart Metadata"
+(make a connection with data quality)
+
+We propose to brand these "Smart Metadata".
 
 The COSMOS conference is a place for the Official Statistics community to exchange on how to define, share, use and manage smart metadata.
