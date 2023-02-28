@@ -1,5 +1,5 @@
 html {
-  background-color: black;
+  background-color: white;
 }
 
 html.dark {
@@ -35,4 +35,10 @@ p {
 
 span.person {
   font-style: italic;
+}
+
+div.splash {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
