@@ -95,3 +95,23 @@ All submitted papers will be subject to peer-review process. At least one co-aut
 
 ## Scientific Committee (to be extended)
 
+- George Alter (University of Michigan)
+- Stephane Crête (Statistics Canada)
+- InKyung Choi (UNECE)
+- Trygve Falch (SSB)
+- Luis Gonzales (UNSD)
+- Arofan Gregory (CODATA)
+- Edgardo Greising (ILO)
+- Dan Gillman (BLS)
+- Pascal Heus (Postman)
+- Simon Hodson (CODATA)
+- Matjaž Jug (CBS)
+- Hilde Orten (SIKT)
+- Marco Pellegrino (Eurostat)
+- Jean-Pierre Poncelet (Eurostat)
+- Sónia Quaresma (INE)
+- Pascal Rivière (Insee)
+- Flavio Rizzolo (Statistics Canada)
+- Benoît Rouppert
+- Roxane Silberman (CNRS)
+- Zoltán Vereczkei (KSH)
