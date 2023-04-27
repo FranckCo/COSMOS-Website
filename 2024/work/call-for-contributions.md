@@ -1,35 +1,36 @@
 # COSMOS 2024 - Call for Contributions
 
-Insee is pleased to invite the statistical community to submit abstracts for presentations/posters at the first Conference On Smart Metadata for Official Statistics 2024 (Cosmos 2024), to be held 11-12 April in Paris, France (dates to be confirmed).
+[Insee](https://www.insee.fr/en/) is pleased to invite the statistical community to submit contributions for the first Conference On Smart Metadata for Official Statistics 2024 (Cosmos 2024), to be held 11-12 April in Paris, France (dates to be confirmed).
 
 Conference web page: http://cosmos-conference.org/
 
 ## Context
 
-(add or replace with extract from manifesto)
+The world of data is changing. Official statistics organizations need to find, acquire and integrate data from both traditional and new data sources at an ever-increasing pace, while maintaining the usability and quality of outputs. Data cycles are shorter, and AI and ML continue to accelerate the need for ever increasing amounts of data.
 
-Metadata standards useful for the statisticians have now arrived at maturity. Among others, we can mention W3C Data Cube, DCAT vocabularies and DDI-L standard (including XKOS extending SKOS for the representation of statistical classifications). A large amount of statistical metadata (concept schemes, thesauri, code lists, classifications, data structure definition) from international and national agencies has already been published on the web based on international standards (*add examples?*).
-
-While implementing standards in our respective organisations is a continuous work, new emerging standards (VTL?...) and taking account the FAIR principles still offer new perspectives, new ideas, new innovations and new issues.
-
-The idea of this conference is to set up a place where the statistical community can share experiences and tools and think ahead regarding the upcoming challenges about smart metadata.
-
-Statistical community use more and more metadata standards for documenting and publishing their data. As a non-exhaustive list, let's mention: DDI, RDF (XKOS, SKOS, DCAT, Data cube, PROV-O...), SDMX, VTL, GSIM?...
+In this context, the demand for metadata is also changing. Metadata now needs to support FAIR, the Open Science vision and other initiatives that require transparency, reproducibility and data that is not only easy to find and use, but also comparable and interoperable across domains. To this end, we need “smart” metadata that is standard, machine-actionable, capable of enhancing data quality and usability, and rich enough to drive the statistical process.
 
 
 ## Conference Objectives
 
-The COSMOS conference goals are to promote and illustrate the use of smart metadata, encompassing: standard, active, linked, FAIR, etc. 
-The audience is metadata expert, official statiticians & stakeholders.
+The COSMOS conference is a place where the official statistics community can work together to define, share, use, and manage smart metadata. Through sharing of experiences, techniques, and tools, and through forward-looking consideration of the challenges we face as a community, we can better meet the demands of the modern data landscape. We encourage official statisticians, metadata experts, data managers, and those involved in the collection, production, and dissemination of statistics to attend. 
 
-It will put emphasis on ways statistical organizations implement smart metadata in their institute focusing on tools/standards used, business use cases, best practices definition, governance, feedbacks (difficulties encountered, keys success) and so on. This is the first edition of this conference which we hope will be the beginning of a long series.
+COSMOS will emphasize the ways in which statistical organizations can implement smart metadata in their institute focusing on topics such as:
+
+- Tools and standards
+- Business use cases
+- Best practices definition
+- Governance
+- Implementation experiences and "lessons learned" (difficulties encountered, key successes)
+
+This will be the first of a series of conferences, focusing on the best way forward in the development and use of smart metadata in all its forms.
 
 
 ## Topics of Interest
 
 Topics of interest include, but not limited to:
 
-### Standard
+### Metadata standards
 
 - Any feedbacks about implementing standards in your organization?
 - Any own ontologies created for supporting other needs?
@@ -72,9 +73,9 @@ FAIR data are data which meet principles of findability, accessibility, interope
 
 ## Important Dates
 
-- Submission deadline: Xxxxxx nn, 2023
-- Notification of results: Xxxxxx nn, 2023
-- Revised version due: Xxxxxx nn, 2024
+- Submission deadline: September 29, 2023
+- Notification of results: October 30, 2023
+- Revised version due: January 15, 2024
 
 
 ## Submission guidelines
@@ -92,5 +93,5 @@ All proposed papers must be submitted using the easychair conference management 
 All submitted papers will be subject to peer-review process. At least one co-author of each accepted paper is required to register to COSMOS and present the paper.
 
 
-## Scientific Committee
+## Scientific Committee (to be extended)
 
