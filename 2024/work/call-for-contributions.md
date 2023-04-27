@@ -6,7 +6,7 @@ Conference web page: http://cosmos-conference.org/
 
 ## Context
 
-The world of data is changing. Official statistics organizations need to find, acquire and integrate data from both traditional and new data sources at an ever-increasing pace, while maintaining the usability and quality of outputs. Data cycles are shorter, and AI and ML continue to accelerate the need for ever increasing amounts of data.
+The world of data is changing. Official statistics organizations need to find, acquire and integrate data from both traditional and new data sources at an ever-increasing pace, while maintaining the usability and quality of outputs. Data cycles are shorter, and AI and ML continue to accelerate the need for data.
 
 In this context, the demand for metadata is also changing. Metadata now needs to support FAIR, the Open Science vision and other initiatives that require transparency, reproducibility and data that is not only easy to find and use, but also comparable and interoperable across domains. To this end, we need “smart” metadata that is standard, machine-actionable, capable of enhancing data quality and usability, and rich enough to drive the statistical process.
 
@@ -15,13 +15,13 @@ In this context, the demand for metadata is also changing. Metadata now needs to
 
 The COSMOS conference is a place where the official statistics community can work together to define, share, use, and manage smart metadata. Through sharing of experiences, techniques, and tools, and through forward-looking consideration of the challenges we face as a community, we can better meet the demands of the modern data landscape. We encourage official statisticians, metadata experts, data managers, and those involved in the collection, production, and dissemination of statistics to attend. 
 
-COSMOS will emphasize the ways in which statistical organizations can implement smart metadata in their institute focusing on topics such as:
+COSMOS will emphasize the ways in which statistical organizations can implement smart metadata in their institute, covering areas such as:
 
-- Tools and standards
+- Standards
 - Business use cases
-- Best practices definition
 - Governance
-- Implementation experiences and "lessons learned" (difficulties encountered, key successes)
+- Best practices definition
+- Tools and system mplementation experiences (lessons learned, difficulties encountered, key successes)
 
 This will be the first of a series of conferences, focusing on the best way forward in the development and use of smart metadata in all its forms.
 
