@@ -32,28 +32,29 @@ Topics of interest include, but not limited to:
 
 ### Metadata standards
 
-- Any feedbacks about implementing standards in your organization?
-- Any own ontologies created for supporting other needs?
-- Any tools used or developed for supporting standards?
-- Any best practices defined?
-- Any interoperability issues between standards?
+- Feedbacks about implementing standards in your organization
+- Any of your own ontologies created for supporting other needs
+- Any tools used or developed for supporting standards
+- Any best practices defined
+- Any interoperability issues between standards
 - How to reconcile the conceptual and implementation models?
 - Have you defined core metadata for your organisation?
 - How do you manage metadata (any burden issue?)?
-- Governance?
+- Governance
 - Sharing knowledge on a standards community
 - Feedback: when do you decide to track changes (versioning)?
 - How far should we go in terms of traceability? / How far do we version?
+- Any experience about provenance and lineage models and implementations
 
-### Linked
+### Linking
 
 - How can data and concepts be linked?
-- Link with geospatial representation?
+- Linking with geospatial representations
 - What are the existing tools?
 - How do we establish, document and share best practices?
 - How can we perform data reconciliation, ontology matching and instance matching with statistical data?
-- Link codes and concepts between institutes?
-- Any experience about provenance implementation?
+- Linking codes and concepts between institutes
+
 
 ### Active metadata
 
@@ -67,8 +68,9 @@ FAIR data are data which meet principles of findability, accessibility, interope
 - How to assess the compliance with FAIR principles?
 - How to implement FAIR principles in an organization?
 - How transparent do we need to be knowing that we are not sharing confidential data?
-- What does reusable mean based on statistical data?
-- How provenance metadata help to be FAIRness?
+- What role do smart metadata play in providing access to protected data?
+- What does "reusable" mean for statistical data?
+- How does provenance metadata help in being FAIR?
 
 
 ## Important Dates
