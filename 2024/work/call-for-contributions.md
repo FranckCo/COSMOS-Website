@@ -21,7 +21,7 @@ COSMOS will emphasize the ways in which statistical organizations can implement 
 - Business use cases
 - Governance
 - Best practices definition
-- Tools and system mplementation experiences (lessons learned, difficulties encountered, key successes)
+- Tools and implementation systems experiences (lessons learned, difficulties encountered, key successes)
 
 This will be the first of a series of conferences, focusing on the best way forward in the development and use of smart metadata in all its forms.
 
@@ -32,7 +32,7 @@ Topics of interest include, but not limited to:
 
 ### Metadata standards
 
-- Feedbacks about implementing standards in your organization
+- Feedback about implementing standards in your organization
 - Any of your own ontologies created for supporting other needs
 - Any tools used or developed for supporting standards
 - Any best practices defined
@@ -41,7 +41,7 @@ Topics of interest include, but not limited to:
 - Have you defined core metadata for your organisation?
 - How do you manage metadata (any burden issue?)?
 - Governance
-- Sharing knowledge on a standards community
+- Sharing knowledge about standards in the community
 - Feedback: when do you decide to track changes (versioning)?
 - How far should we go in terms of traceability? / How far do we version?
 - Any experience about provenance and lineage models and implementations
