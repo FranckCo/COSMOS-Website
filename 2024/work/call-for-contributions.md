@@ -32,13 +32,13 @@ Topics of interest include, but not limited to:
 
 ### Metadata standards
 
-- Feedback about implementing standards in your organization
+- Lessons learned about implementing standards in your organization
 - Any of your own ontologies created for supporting other needs
-- Any tools used or developed for supporting standards
-- Any best practices defined
-- Any interoperability issues between standards
+- Tools used or developed for supporting standards
+- Best practices defined
+- Interoperability issues between standards
 - How to reconcile the conceptual and implementation models?
-- Have you defined core metadata for your organisation?
+- How do you define core metadata for your organisation?
 - How do you manage metadata (any burden issue?)?
 - Governance
 - Sharing knowledge about standards in the community
@@ -64,7 +64,7 @@ Experiences of early or mature implementations are welcomed.
 
 ### FAIR
 
-FAIR data are data which meet principles of findability, accessibility, interoperability, and reusability (FAIR) (Source: Wikipedia).
+FAIR data meet the principles of findability, accessibility, interoperability, and reusability.
 - How to assess the compliance with FAIR principles?
 - How to implement FAIR principles in an organization?
 - How transparent do we need to be knowing that we are not sharing confidential data?
