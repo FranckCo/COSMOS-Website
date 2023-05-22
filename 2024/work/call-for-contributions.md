@@ -1,6 +1,6 @@
 # COSMOS 2024 - Call for Contributions
 
-[Insee](https://www.insee.fr/en/) is pleased to invite the statistical community to submit contributions for the first Conference On Smart Metadata for Official Statistics 2024 (Cosmos 2024), to be held 11-12 April in Paris, France (dates to be confirmed).
+[Insee](https://www.insee.fr/en/) is pleased to invite the statistical community to submit contributions for the first Conference On Smart Metadata for Official Statistics 2024 (Cosmos 2024), to be held on 11-12 April 2024 in Paris, France.
 
 Conference web page: http://cosmos-conference.org/
 
@@ -86,13 +86,13 @@ The submissions must be written in English using the Springer style (LNCS/CCIS o
 
 - Full papers (up to 15 pages)
 - Short papers (6-8 pages)
-- Demos (up to 4 pages)
+- Posters and demos (up to 4 pages)
 
 Please note that HTML+RDFa contributions are also welcome as long as the layout complies with the LNCS style.
 
 All proposed papers must be submitted using the easychair conference management system at https://easychair.org/conferences/?conf=cosmos2024.
 
-All submitted papers will be subject to peer-review process. At least one co-author of each accepted paper is required to register to COSMOS and present the paper.
+All submitted papers will be subject to a peer-review process. At least one co-author of each accepted paper is required to register to COSMOS and present the paper.
 
 
 ## Scientific Committee (to be extended)
