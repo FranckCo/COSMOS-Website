@@ -1,6 +1,6 @@
 # COSMOS 2024 - Call for Contributions
 
-[Insee](https://www.insee.fr/en/) is pleased to invite the statistical community to submit contributions for the first Conference On Smart Metadata for Official Statistics 2024 (Cosmos 2024), to be held on 11-12 April 2024 in Paris, France.
+[Insee](https://www.insee.fr/en/) is pleased to invite the statistical community to submit contributions for the first Conference On Smart Metadata for Official Statistics 2024 (COSMOS 2024), to be held on 11-12 April 2024 in Paris, France.
 
 Conference web page: http://cosmos-conference.org/
 
@@ -58,7 +58,7 @@ Topics of interest include, but not limited to:
 
 ### Active metadata
 
-The use of metadata can extend beyond their function of describing and helping to understand. Based on machine-actionnable semantically rich standard, metadata can automatically generate components of the statistical process. They take on a new role to some extent, no longer simply "information to facilitate understanding of statistics" but becoming "data used in the statistical business process"; hence the notion of active metadata.
+The use of metadata can extend beyond their function of describing and helping to understand data. Based on machine-actionable semantically rich standard, metadata can automatically generate components of the statistical process. They take on a new role to some extent, no longer simply "information to facilitate understanding of statistics" but becoming "data used in the statistical business process"; hence the notion of active metadata.
 
 Experiences of early or mature implementations are welcomed.
 
@@ -80,9 +80,9 @@ FAIR data meet the principles of findability, accessibility, interoperability, a
 - Revised version due: January 15, 2024
 
 
-## Submission guidelines
+## Submission Guidelines
 
-The submissions must be written in English using the Springer style (LNCS/CCIS one-column page format) and submitted non-anonymously in PDF via EasyChair. We invite the submission of original research results and proposed research directions related to the focus areas of the workshop, in one of the three categories given below:
+The submissions must be written in English using the Springer style (LNCS/CCIS one-column page format) and submitted non-anonymously in PDF via EasyChair. We invite the submission of original research results and proposed research directions related to the focus areas of the conference, in one of the three categories given below:
 
 - Full papers (up to 15 pages)
 - Short papers (6-8 pages)
