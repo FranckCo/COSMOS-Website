@@ -8,7 +8,7 @@ Conference web page: http://cosmos-conference.org/
 
 The world of data is changing. Official statistics organizations need to find, acquire and integrate data from both traditional and new data sources at an ever-increasing pace, while maintaining the usability and quality of outputs. Data cycles are shorter, and AI and ML continue to accelerate the need for data.
 
-In this context, the demand for metadata is also changing. Metadata now needs to support FAIR, the Open Science vision and other initiatives that require transparency, reproducibility and data that is not only easy to find and use, but also comparable and interoperable across domains. To this end, we need “smart” metadata that is standard, machine-actionable, capable of enhancing data quality and usability, and rich enough to drive the statistical process.
+In this context, the demand for metadata is also changing. Metadata now needs to support FAIR (https://www.go-fair.org/), the Open Science vision and other initiatives that require transparency, reproducibility and data that is not only easy to find and use, but also comparable and interoperable across domains. To this end, we need “smart” metadata that is standard, machine-actionable, capable of enhancing data quality and usability, and rich enough to drive the statistical process.
 
 Smart metadata and AI technologies can benefit from each other: metadata can enable better AI capabilities, but AI also be applied to create and manage better metadata.
 
@@ -71,7 +71,7 @@ Experiences of early or mature implementations are welcomed.
 FAIR data meet the principles of findability, accessibility, interoperability, and reusability.
 - How to assess the compliance with FAIR principles?
 - How to implement FAIR principles in an organization?
-- How transparent do we need to be knowing that we are not sharing confidential data?
+- What are FAIR and transparent metadata for confidential data that are shared under restrictions?
 - What role do smart metadata play in providing access to protected data?
 - What does "reusable" mean for statistical data?
 - How does provenance metadata help in being FAIR?
