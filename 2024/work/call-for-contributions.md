@@ -123,7 +123,7 @@ The conference proceedings shall be submitted to CEUR-WS.org for online publicat
 - Zoltán Vereczkei (KSH)
 
 
-## Streering Committee
+## Steering Committee
 
 - Mylène Chaleix (Insee)
 - Franck Cotton (Insee)
