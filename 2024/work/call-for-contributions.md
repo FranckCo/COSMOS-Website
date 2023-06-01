@@ -10,6 +10,8 @@ The world of data is changing. Official statistics organizations need to find, a
 
 In this context, the demand for metadata is also changing. Metadata now needs to support FAIR, the Open Science vision and other initiatives that require transparency, reproducibility and data that is not only easy to find and use, but also comparable and interoperable across domains. To this end, we need “smart” metadata that is standard, machine-actionable, capable of enhancing data quality and usability, and rich enough to drive the statistical process.
 
+Smart metadata and AI technologies can benefit from each other: metadata can enable better AI capabilities, but AI also be applied to create and manage better metadata.
+
 
 ## Conference Objectives
 
@@ -60,6 +62,8 @@ Topics of interest include, but not limited to:
 
 The use of metadata can extend beyond their function of describing and helping to understand data. Based on machine-actionable semantically rich standard, metadata can automatically generate components of the statistical process. They take on a new role to some extent, no longer simply "information to facilitate understanding of statistics" but becoming "data used in the statistical business process"; hence the notion of active metadata.
 
+Active metadata can serve as an important resource for data management and security, determining quality, providing appropriate access, personalizing delivery of data, and developing flexible "self-serve" systems for better meeting users' needs.
+
 Experiences of early or mature implementations are welcomed.
 
 ### FAIR
@@ -82,24 +86,24 @@ FAIR data meet the principles of findability, accessibility, interoperability, a
 
 ## Submission Guidelines
 
-The submissions must be written in English using the Springer style (LNCS/CCIS one-column page format) and submitted non-anonymously in PDF via EasyChair. We invite the submission of original research results and proposed research directions related to the focus areas of the conference, in one of the three categories given below:
+We invite the submission of original results related to the focus areas of the conference in one of the three categories given below:
 
 - Full papers (up to 15 pages)
 - Short papers (6-8 pages)
 - Posters and demos (up to 4 pages)
 
-Please note that HTML+RDFa contributions are also welcome as long as the layout complies with the LNCS style.
+All submissions must be written in English and submitted non-anonymously using the EasyChair conference management system at https://easychair.org/conferences/?conf=cosmos2024.
 
-All proposed papers must be submitted using the easychair conference management system at https://easychair.org/conferences/?conf=cosmos2024.
+All submitted papers will be subject to a peer-review process and evaluated according to their originality, technical content, style, clarity, and relevance to the conference. At least one co-author of each accepted paper is required to register to COSMOS and present the paper.
 
-All submitted papers will be subject to a peer-review process. At least one co-author of each accepted paper is required to register to COSMOS and present the paper.
+The conference proceedings shall be submitted to CEUR-WS.org for online publication. Contribution authors should refer to instructions at https://ceur-ws.org/HOWTOSUBMIT.html to see what this implies. In particular, all contributions must be formatted according to the CEUR-ART style for writing papers to be published with CEUR-WS. Style files and templates are available online: http://ceur-ws.org/Vol-XXX/CEURART.zip. The format adopted by COSMOS 2024 is: 1-column style. 
 
 
-## Scientific Committee (to be extended)
+## Scientific Committee
 
 - George Alter (University of Michigan)
-- Stephane Crête (Statistics Canada)
 - InKyung Choi (UNECE)
+- Stephane Crête (Statistics Canada)
 - Trygve Falch (SSB)
 - Luis Gonzales (UNSD)
 - Arofan Gregory (CODATA)
@@ -114,6 +118,15 @@ All submitted papers will be subject to a peer-review process. At least one co-a
 - Sónia Quaresma (INE)
 - Pascal Rivière (Insee)
 - Flavio Rizzolo (Statistics Canada)
-- Benoît Rouppert
+- Benoît Rouppert (Meilleurstaux)
 - Roxane Silberman (CNRS)
 - Zoltán Vereczkei (KSH)
+
+
+## Streering Committee
+
+- Mylène Chaleix (Insee)
+- Franck Cotton (Insee)
+- Thomas Dubois (Insee)
+- Arofan Gregory (CODATA)
+- Flavio Rizzolo (Statistics Canada)
