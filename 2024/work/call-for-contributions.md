@@ -47,20 +47,20 @@ Topics of interest include, but not limited to:
 - Feedback: when do you decide to track changes (versioning)?
 - How far should we go in terms of traceability? / How far do we version?
 - Any experience about provenance and lineage models and implementations
+- How to collect various kinds of metadata and standardise them for statistical use?
 
 ### Linking
 
-- How can data and concepts be linked?
+- How can data and metadata concepts be linked?
 - Linking with geospatial representations
 - What are the existing tools?
 - How do we establish, document and share best practices?
 - How can we perform data reconciliation, ontology matching and instance matching with statistical data?
 - Linking codes and concepts between institutes
 
-
 ### Active metadata
 
-The use of metadata can extend beyond their function of describing and helping to understand data. Based on machine-actionable semantically rich standard, metadata can automatically generate components of the statistical process. They take on a new role to some extent, no longer simply "information to facilitate understanding of statistics" but becoming "data used in the statistical business process"; hence the notion of active metadata.
+The use of metadata can extend beyond their function of describing and helping to understand data. Based on machine-actionable semantically rich standard, metadata can automatically generate components of the statistical process and/or trigger their executions. They take on a new role to some extent, no longer simply "information to facilitate understanding of statistics" but becoming "data used in the statistical business process"; hence the notion of active metadata.
 
 Active metadata can serve as an important resource for data management and security, determining quality, providing appropriate access, personalizing delivery of data, and developing flexible "self-serve" systems for better meeting users' needs.
 
