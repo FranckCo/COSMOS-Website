@@ -2,7 +2,7 @@
 
 [Insee](https://www.insee.fr/en/) is pleased to invite the statistical community to submit contributions for the first Conference On Smart Metadata for Official Statistics 2024 (COSMOS 2024), to be held on 11-12 April 2024 in Paris, France.
 
-Conference web page: http://cosmos-conference.org/
+Conference web page: http://cosmos-conference.org/2024
 
 ## Context
 
@@ -104,23 +104,23 @@ The conference proceedings shall be submitted to CEUR-WS.org for online publicat
 - George Alter (University of Michigan)
 - InKyung Choi (UNECE)
 - Stephane Crête (Statistics Canada)
-- Trygve Falch (SSB)
-- Luis Gonzales (UNSD)
+- Trygve Falch (SSB - Statistics Norway)
+- Luis Gonzales (UN Statistical Division)
 - Arofan Gregory (CODATA)
 - Edgardo Greising (ILO)
-- Dan Gillman (BLS)
+- Dan Gillman (Bureau of Labor Statistics)
 - Pascal Heus (Postman)
 - Simon Hodson (CODATA)
-- Matjaž Jug (CBS)
+- Matjaž Jug (CBS - Statistics Netherlands)
 - Hilde Orten (SIKT)
 - Marco Pellegrino (Eurostat)
 - Jean-Pierre Poncelet (Eurostat)
-- Sónia Quaresma (INE)
+- Sónia Quaresma (INE - Statistics Portugal)
 - Pascal Rivière (Insee)
 - Flavio Rizzolo (Statistics Canada)
 - Benoît Rouppert (Meilleurstaux)
 - Roxane Silberman (CNRS)
-- Zoltán Vereczkei (KSH)
+- Zoltán Vereczkei (KSH - Statistics Hungary)
 
 
 ## Steering Committee
