@@ -9,6 +9,10 @@ img.logo {
 	transform: translate(-50%, -50%);
 }
 
+body {
+	font-size: 120%;
+}
+
 h1.main-title {
 	color: #680e4b;
 }
@@ -49,10 +53,32 @@ div.splash {
 
 .overlay-top img {
 	width: 100%;
-	height: auto;
+	height: 150px;
 }
 
 .test img {
-	margin-top: -30px;
-	width: 30%;
+	position: fixed;
+	/* margin-top: -30px; */
+	height: 160px;
+}
+
+.wrapper {
+	width: 100%;
+	height: 150px;
+	position: fixed;
+	top: 0;
+}
+
+.content {
+	padding-top: 150px;
+	display: flex;
+}
+
+.logo-vertical img {
+	padding-top: 20px;
+	width: 100px;
+}
+
+.main-text {
+	padding-left: 50px;
 }

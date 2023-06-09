@@ -2,7 +2,7 @@
 
 [Insee](https://www.insee.fr/en/) is pleased to invite the statistical community to submit contributions for the first Conference On Smart Metadata for Official Statistics 2024 (COSMOS 2024), to be held on 11-12 April 2024 in Paris, France.
 
-Conference web page: http://cosmos-conference.org/2024
+Conference web page: http://cosmos-conference.org/2024.
 
 ## Context
 
