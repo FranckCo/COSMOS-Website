@@ -4,6 +4,8 @@
 
 Conference web page: http://cosmos-conference.org/2024.
 
+Contact: [cosmos-2024@insee.fr](mailto:cosmos-2024@insee.fr).
+
 ## Context
 
 The world of data is changing. Official statistics organizations need to find, acquire and integrate data from both traditional and new data sources at an ever-increasing pace, while maintaining the usability and quality of outputs. Data cycles are shorter, and AI and ML continue to accelerate the need for data.
@@ -79,9 +81,9 @@ FAIR data meet the principles of findability, accessibility, interoperability, a
 
 ## Important Dates
 
-- Submission deadline: September 29, 2023
-- Notification of results: October 30, 2023
-- Revised version due: January 15, 2024
+- Submission deadline: October 13, 2023
+- Notification of results: November 13, 2023
+- Revised version due: January 29, 2024
 
 
 ## Submission Guidelines
