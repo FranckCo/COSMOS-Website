@@ -1,0 +1,119 @@
+html.dark {
+	background-color: #1b171b;
+}
+
+body {
+	margin: 0;
+	font-family: "PFRegalDisplayPro";
+	font-size: 110%;
+}
+
+.header .background-img img {
+	width: 100%;
+	margin: 0;
+}
+
+.header .text-img {
+	display: flex;
+	justify-content: center;
+}
+
+.header .text-img img {
+	position: absolute;
+	top: 0;
+	width: 60%;
+}
+
+.menu {
+	display: flex;
+	justify-content: center;
+	padding-left: 10%;
+	padding-right: 10%;
+	border-bottom: 2px solid grey;
+}
+
+.menu-item {
+	flex: auto;
+	max-width: 250px;
+	height: 50px;
+	font: normal normal 500 19px/39px Montserrat;
+	letter-spacing: 0px;
+	line-height: normal;
+	color: #12143d;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+	text-decoration: none;
+}
+.menu-item:hover {
+	background-color: #023d90;
+	color: white;
+	cursor: pointer;
+}
+
+.menu-item-active {
+	opacity: 0.38;
+}
+.menu-item-active:hover {
+	background-color: white;
+	color: #12143d;
+	cursor: default;
+}
+
+.content {
+	padding-top: 0;
+	padding-left: 25%;
+	padding-right: 25%;
+}
+
+.content .page-name {
+	margin-top: 50px;
+	width: 100%;
+	text-align: center;
+	font: normal normal 600 25px/39px Montserrat;
+	letter-spacing: 3.5px;
+	color: #12143d;
+	text-transform: uppercase;
+	opacity: 1;
+	border-bottom: 2px solid grey;
+	padding-bottom: 30px;
+}
+
+.content .introduction {
+	padding-top: 20px;
+	padding-left: 10%;
+	padding-right: 10%;
+	width: 80%;
+	text-align: center;
+	font: normal normal normal 30px/45px PFRegalDisplayPro;
+	letter-spacing: 0px;
+	color: #023d90;
+	border-bottom: 2px solid grey;
+	padding-bottom: 20px;
+}
+
+.content .text-bold {
+	font: normal normal 900 18px/30px Montserrat;
+}
+
+.content .text {
+	font: normal normal 400 18px/30px Montserrat;
+}
+
+.content .map {
+	display: block;
+	padding-top: 20px;
+	text-align: center;
+}
+
+.text h2 {
+	color: #023d90;
+	font: normal normal 600 25px/34px Montserrat;
+	border-bottom: 1px solid gray;
+}
+
+.text h3 {
+	color: #557cb4;
+	font: normal normal 900 20px/34px Montserrat;
+}

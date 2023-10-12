@@ -1,0 +1,47 @@
+@font-face {
+	font-family: "PFRegalDisplayPro";
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url(./PFRegalDisplayPro-Reg.otf) format("truetype");
+}
+
+@font-face {
+	font-family: "PFRegalDisplayPro";
+	font-style: italic;
+	font-weight: normal;
+	font-display: swap;
+	src: url(./PFRegalDisplayPro-Italic.otf) format("truetype");
+}
+
+@font-face {
+	font-family: "PFRegalDisplayPro";
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url(./PFRegalDisplayPro-Medium.otf) format("truetype");
+}
+
+@font-face {
+	font-family: "PFRegalDisplayPro";
+	font-style: italic;
+	font-weight: 500;
+	font-display: swap;
+	src: url(./PFRegalDisplayPro-MedItalic.otf) format("truetype");
+}
+
+@font-face {
+	font-family: "PFRegalDisplayPro";
+	font-style: normal;
+	font-weight: 900;
+	font-display: swap;
+	src: url(./PFRegalDisplayPro-Bold.otf) format("truetype");
+}
+
+@font-face {
+	font-family: "PFRegalDisplayPro";
+	font-style: italic;
+	font-weight: 900;
+	font-display: swap;
+	src: url(./PFRegalDisplayPro-BoldItalic.otf) format("truetype");
+}
