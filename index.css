@@ -117,3 +117,56 @@ body {
 	color: #557cb4;
 	font: normal normal 900 20px/34px Montserrat;
 }
+
+.scroll-container {
+	position: absolute;
+	top: 0;
+	right: 0;
+	height: 100%;
+}
+
+.scroll-container:before {
+	content: "";
+	display: block;
+	height: 100vh;
+	pointer-events: none;
+}
+
+.scroll-container a {
+	position: fixed;
+	bottom: 25px;
+	right: 50px;
+	z-index: 900;
+	text-decoration: none;
+	color: black;
+	font-size: 14px;
+	font-family: Montserrat;
+	background-color: #efecec;
+	border-radius: 50%;
+	padding: 40px 10px;
+}
+
+@media (max-width: 769px) {
+	body {
+		overflow-y: scroll;
+		scroll-behavior: smooth;
+	}
+
+	.menu {
+		flex-direction: column;
+	}
+
+	.menu .menu-item {
+		align-self: center;
+	}
+
+	.content {
+		padding-top: 0;
+		padding-left: 5%;
+		padding-right: 5%;
+	}
+
+	.scroll-container {
+		display: none;
+	}
+}
