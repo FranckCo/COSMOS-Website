@@ -31,6 +31,7 @@ body {
 	padding-left: 10%;
 	padding-right: 10%;
 	border-bottom: 1px solid grey;
+	margin-bottom: 50px;
 }
 
 .menu-item {
@@ -69,7 +70,6 @@ body {
 }
 
 .content .page-name {
-	margin-top: 50px;
 	width: 100%;
 	text-align: center;
 	font: normal normal 600 25px/39px Montserrat;
@@ -125,6 +125,27 @@ body {
 	color: #023d90;
 	background-color: white;
 	border: 1px solid #023d90;
+}
+
+.content .sponsors {
+	margin-top: 20px;
+}
+
+.content .sponsors .sponsor {
+	display: flex;
+	align-items: center;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	border-bottom: 1px solid grey;
+}
+
+.content .sponsors .sponsor .sponsor-img {
+	text-align: center;
+	min-width: 20%;
+}
+
+.content .sponsors .sponsor .sponsor-text {
+	font: normal normal 400 18px/30px Montserrat;
 }
 
 .footer {
@@ -191,7 +212,11 @@ body {
 	bottom: 25px;
 	right: 50px;
 	z-index: 900;
-	width: 5%;
+	width: 3%;
+}
+
+.burger {
+	display: none;
 }
 
 @media (min-width: 769px) {
@@ -203,11 +228,7 @@ body {
 
 @media (max-width: 769px) {
 	.menu {
-		flex-direction: column;
-	}
-
-	.menu .menu-item {
-		align-self: center;
+		display: none;
 	}
 
 	.content {
@@ -218,6 +239,31 @@ body {
 
 	.scroll-container {
 		display: none;
+	}
+
+	.burger {
+		display: flex;
+		margin-bottom: 20px;
+		width: 35px;
+		padding-left: 10px;
+	}
+
+	.burger-icon span {
+		display: flex;
+		width: 35px;
+		height: 5px;
+		background-color: #023d90;
+		margin: 6px 0;
+	}
+
+	.menu.active {
+		display: flex;
+		flex-direction: column;
+		margin-bottom: 0;
+	}
+
+	.menu.active .menu-item {
+		align-self: center;
 	}
 
 	.footer {
