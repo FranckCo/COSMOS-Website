@@ -108,6 +108,11 @@ body {
 	text-align: center;
 }
 
+.content .map iframe {
+	width: 70%;
+	min-height: 350px;
+}
+
 .content .btn-cfc {
 	text-align: center;
 }
@@ -241,6 +246,11 @@ body {
 		display: none;
 	}
 
+	.content .map iframe {
+		width: 90%;
+		height: auto;
+	}
+
 	.burger {
 		display: flex;
 		margin-bottom: 20px;
@@ -264,6 +274,11 @@ body {
 
 	.menu.active .menu-item {
 		align-self: center;
+	}
+
+	.content .sponsors .sponsor .sponsor-img {
+		text-align: center;
+		min-width: 35%;
 	}
 
 	.footer {
