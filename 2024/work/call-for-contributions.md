@@ -122,7 +122,6 @@ The conference proceedings shall be submitted to CEUR-WS.org for online publicat
 - Flavio Rizzolo (Statistics Canada)
 - Benoît Rouppert (Meilleurstaux)
 - Roxane Silberman (CNRS)
-- Zoltán Vereczkei (KSH - Statistics Hungary)
 
 
 ## Steering Committee
