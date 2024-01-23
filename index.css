@@ -249,6 +249,10 @@ body {
   font: normal normal 900 20px/34px Montserrat;
 }
 
+.side-event {
+	padding-bottom: 20px;
+}
+
 .scroll-container {
   position: absolute;
   top: 0;
