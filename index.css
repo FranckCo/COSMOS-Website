@@ -184,6 +184,10 @@ body {
   padding-bottom: 20px;
 }
 
+.content .program-day .day-chair {
+  font-size: 70%;
+}
+
 .content .program-item {
   display: flex;
   justify-content: center;
