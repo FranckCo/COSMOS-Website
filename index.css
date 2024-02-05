@@ -130,11 +130,11 @@ body {
   min-height: 350px;
 }
 
-.content .btn-cfc {
+.content .btn-idx {
   text-align: center;
 }
 
-.content .btn-cfc-link {
+.content .btn-idx-link {
   padding: 10px;
   border-radius: 2%;
   background-color: #023d90;
@@ -143,7 +143,7 @@ body {
   font: normal normal 500 18px/30px Montserrat;
 }
 
-.content .btn-cfc-link:hover {
+.content .btn-idx-link:hover {
   color: #023d90;
   background-color: white;
   border: 1px solid #023d90;
